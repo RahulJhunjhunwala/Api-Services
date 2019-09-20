@@ -1,0 +1,3 @@
+This repository is created to practice developing RESTful Api and MicroServices.
+
+Also, I will be updating syntax and commands used throughout the program.
