@@ -1,3 +1,18 @@
 This repository is created to practice developing RESTful Api and MicroServices.
 
-Also, I will be updating syntax and commands used throughout the program.
+************ REST / RESTful Api ************
+Points to remember:-
+1. REST is an architecture style for designing loosely coupled applications over HTTP, that is often used in the development of web services.
+2. When returning a collection resource, include only most important information about resource. This will keep the size of payload small, and so will improve the performance of REST APIs.
+3. 
+
+
+Syntax and commands used throughout the program:-
+1. 
+
+Some very useful resources found on the web:-
+
+1. https://restfulapi.net/						(Rest homepage)
+2. https://restfulapi.net/resource-naming/		(Resource naming best practice)
+3. https://restfulapi.net/rest-api-design-tutorial-with-example/
+4. 
